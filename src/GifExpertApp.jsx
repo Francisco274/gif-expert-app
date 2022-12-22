@@ -22,5 +22,4 @@ export const GifExpertApp = () => {
     </>
   )
 }
- // api key F9DDZgS9z5fcmr30KaYkDMTx56fn8LhF
 
